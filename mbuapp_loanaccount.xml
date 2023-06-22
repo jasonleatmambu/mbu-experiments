@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>LOAN_ACCOUNT_VIEW</location>
  <label>Collection View</label>
- <url>https://mbuapp.s3.ap-southeast-1.amazonaws.com/index.html</url>
+ <url>https://dev8853.dhbqlwne6saa7.amplifyapp.com/</url>
  </extensionpoint>
 </app>
