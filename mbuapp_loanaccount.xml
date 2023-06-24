@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>LOAN_ACCOUNT_VIEW</location>
  <label>Collection View</label>
- <url>https://dev8853.dhbqlwne6saa7.amplifyapp.com/</url>
+ <url>https://4euop20c19.execute-api.ap-southeast-1.amazonaws.com/dev/lendingtransaction</url>
  </extensionpoint>
 </app>
