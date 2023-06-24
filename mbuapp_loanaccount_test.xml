@@ -1,0 +1,11 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>Collection View</name>
+ <provider>Mambu Integration Team</provider>
+ <description>Collection View - test</description>
+ <extensionpoint>
+ <location>LOAN_ACCOUNT_VIEW</location>
+ <label>Collection View - test</label>
+ <url>https://pnamujpnjhxt5qlulaltyxb26u0vgwzj.lambda-url.ap-southeast-1.on.aws/</url>
+ </extensionpoint>
+</app>
